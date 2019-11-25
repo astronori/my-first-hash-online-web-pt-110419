@@ -1,1 +1,1 @@
-my_pets = {"cat" => Maru, "dog" => Pluto}
+my_pets = {cat => Maru, dog => Pluto}
